@@ -1,0 +1,13 @@
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\RegexLab.exe
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\RegexLab.deps.json
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\RegexLab.runtimeconfig.json
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\RegexLab.runtimeconfig.dev.json
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\RegexLab.dll
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\RegexLab.pdb
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\RegexLab.csprojAssemblyReference.cache
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\RegexLab.csproj.CoreCompileInputs.cache
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\RegexLab.AssemblyInfoInputs.cache
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\RegexLab.AssemblyInfo.cs
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\RegexLab.dll
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\RegexLab.pdb
+C:\Users\Winderps\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\RegexLab.genruntimeconfig.cache
